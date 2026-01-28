@@ -24,7 +24,6 @@ def main():
     while True:
     
     #Menu display
-
         print("\n+++ATM MENU+++")
         print("1. Withdraw")
         print("2. Deposit")
