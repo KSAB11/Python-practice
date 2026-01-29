@@ -1,2 +1,2 @@
-# Python practice
-Personal Python practice repository for exercises, experiments, and continuous learning.
+# Python Mini-projects
+Building and learning python from scratch.
