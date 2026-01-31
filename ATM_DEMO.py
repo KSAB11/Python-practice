@@ -1,6 +1,6 @@
 # Simple ATM system
 
-def main():
+def atm_simulation():
 
     # Virtual database 
     balance = 10000
@@ -58,4 +58,4 @@ def main():
                 print("\nInvalid! please try again.")
 
 if __name__ == "__main__":
-    main()
+    atm_simulation()
