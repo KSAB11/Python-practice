@@ -2,8 +2,7 @@
 
 import __main__
 
-
-def main():
+def f1_driver():
 
  total = 0 
  while True:
@@ -83,4 +82,4 @@ def main():
             break
 
 if __name__ == "__main__":
-    main()
+    f1_driver()
