@@ -1,5 +1,5 @@
 # Python sets
-# Each event uses de function to have their own space
+# Each event uses def function to have their own space
 # Use class to organize events and swimmers podium
 
 class Olympics_Finals():
