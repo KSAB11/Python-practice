@@ -67,7 +67,7 @@ public class WhileLoop {
         System.out.println(); //Space
     }
 
-    // Binary in rows
+    // Increment
     public static void incrementRow() {
         int row = 1;
 
@@ -112,7 +112,7 @@ public class WhileLoop {
         System.out.println(); // Space
     }
 
-    // Tree
+    // Tree double tree
     public static void doubleTree() {
         // First tree
         // Top layer
