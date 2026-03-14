@@ -2,22 +2,23 @@ public class FibonacciSequence {
 
     public static void fiboSequence() {
         int row = 1;
-        int firstTerm = 0;
-        int secondTerm = 1;
+        long firstTerm = 0;
+        long secondTerm = 1;
         int count;
 
-        while (row <= 8) {
+        while (row <= 10) {
             count = 1;
 
             while (count <= row) {
                 System.out.println(firstTerm + "\t");
 
-                int lastTerm = firstTerm + secondTerm;
+                long lastTerm = firstTerm + secondTerm;
                 firstTerm = secondTerm;
                 secondTerm = lastTerm;
 
                 count++;
             }
+            System.out.println();
             row++;
         }
     }
